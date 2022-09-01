@@ -3,6 +3,7 @@
 T|ツールバー表示・非表示
 N|数値ビュー表示・非表示
 shift+A|追加
+control+A|現在のスケールや位置を適用する
 shift+D|複製
 alt+D|リンク付き複製
 X/delete|削除
@@ -24,3 +25,4 @@ Q| fav menu
 home| 全オブジェクト表示
 shift+B| Zoom
 ~| パイメニュー表示
+

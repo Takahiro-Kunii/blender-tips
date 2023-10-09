@@ -44,3 +44,8 @@ Edit>Preferencesメニューを選んで初期設定画面を表示させる。
 New Dataはチェックしない。オブジェクト等の新規作成時にデフォルトで付く名称などが翻訳されるが、オリジナルの名称を前提に動くツールも多いので翻訳しないのが無難。<br/>
 Interfaceは好みで決める。メニュー等が翻訳されるが、チュートリアルなどは英語メニューが使われるので、チェックすると、かえってわかりづらくなるかも。
 - MacまたはWindows,linuxマシンにblenderをインストールしておく
+
+# Tips
+* [髪の毛ができるまで～](https://x.com/kensyouen_Y/status/1607661995071008770?s=20)
+* [カーブのフック](https://x.com/Shuka_blender/status/1574300078977667072?s=20)
+* [テキストプロンプトからテクスチャや画像素材を生成](https://3dnchu.com/archives/dream-textures/)
